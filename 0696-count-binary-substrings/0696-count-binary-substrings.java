@@ -24,3 +24,9 @@ class Solution {
         
     }
 }
+
+public static void main(String[] args){
+    String s ="000110011";
+    System.out.print(countBinarySubstrings(s));
+    
+}
