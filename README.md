@@ -17,8 +17,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/codemaster-cmd/DSA-practice/tree/master/0392-is-subsequence) |
+| [2418-sort-the-people](https://github.com/codemaster-cmd/DSA-practice/tree/master/2418-sort-the-people) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/codemaster-cmd/DSA-practice/tree/master/0392-is-subsequence) |
+## Array
+|  |
+| ------- |
+| [2418-sort-the-people](https://github.com/codemaster-cmd/DSA-practice/tree/master/2418-sort-the-people) |
+## Hash Table
+|  |
+| ------- |
+| [2418-sort-the-people](https://github.com/codemaster-cmd/DSA-practice/tree/master/2418-sort-the-people) |
+## Sorting
+|  |
+| ------- |
+| [2418-sort-the-people](https://github.com/codemaster-cmd/DSA-practice/tree/master/2418-sort-the-people) |
 <!---LeetCode Topics End-->
