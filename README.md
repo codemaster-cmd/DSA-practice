@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/codemaster-cmd/DSA-practice/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/codemaster-cmd/DSA-practice/tree/master/1051-height-checker) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/codemaster-cmd/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2418-sort-the-people](https://github.com/codemaster-cmd/DSA-practice/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/codemaster-cmd/DSA-practice/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/codemaster-cmd/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/codemaster-cmd/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
