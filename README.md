@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/codemaster-cmd/DSA-practice/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/codemaster-cmd/DSA-practice/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/codemaster-cmd/DSA-practice/tree/master/1051-height-checker) |
+| [1184-distance-between-bus-stops](https://github.com/codemaster-cmd/DSA-practice/tree/master/1184-distance-between-bus-stops) |
 | [1260-shift-2d-grid](https://github.com/codemaster-cmd/DSA-practice/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codemaster-cmd/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codemaster-cmd/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
