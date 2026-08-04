@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codemaster-cmd/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2418-sort-the-people](https://github.com/codemaster-cmd/DSA-practice/tree/master/2418-sort-the-people) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/codemaster-cmd/DSA-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3731-find-missing-elements](https://github.com/codemaster-cmd/DSA-practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/codemaster-cmd/DSA-practice/tree/master/0142-linked-list-cycle-ii) |
 | [2418-sort-the-people](https://github.com/codemaster-cmd/DSA-practice/tree/master/2418-sort-the-people) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codemaster-cmd/DSA-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/codemaster-cmd/DSA-practice/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codemaster-cmd/DSA-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/codemaster-cmd/DSA-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/codemaster-cmd/DSA-practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/codemaster-cmd/DSA-practice/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
