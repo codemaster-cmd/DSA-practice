@@ -1,24 +1,31 @@
+import java.util.HashMap;
+
 class Solution {
     public int maximumLengthSubstring(String s) {
 
-        int[] freq = new int[26];
+        HashMap<Character, Integer> mp = new HashMap<>();
 
-        int left = 0;
-        int ans = 0;
+        int maxx = 0;
+        int id = 0;
 
-        for (int right = 0; right < s.length(); right++) {
+        for (int i = 0; i < s.length(); i++) {
 
-            char ch = s.charAt(right);
-            freq[ch - 'a']++;
+            char ch = s.charAt(i);
 
-            while (freq[ch - 'a'] > 2) {
-                freq[s.charAt(left) - 'a']--;
-                left++;
+            mp.put(ch, mp.getOrDefault(ch, 0) + 1);
+
+            while (mp.get(ch) > 2) {
+
+                char leftChar = s.charAt(id);
+
+                mp.put(leftChar, mp.get(leftChar) - 1);
+
+                id++;
             }
 
-            ans = Math.max(ans, right - left + 1);
+            maxx = Math.max(maxx, i - id + 1);
         }
 
-        return ans;
+        return maxx;
     }
 }
