@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/codemaster-cmd/DSA-practice/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/codemaster-cmd/DSA-practice/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codemaster-cmd/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/codemaster-cmd/DSA-practice/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/codemaster-cmd/DSA-practice/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/codemaster-cmd/DSA-practice/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/codemaster-cmd/DSA-practice/tree/master/1051-height-checker) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/codemaster-cmd/DSA-practice/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/codemaster-cmd/DSA-practice/tree/master/0682-baseball-game) |
 ## Matrix
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/codemaster-cmd/DSA-practice/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/codemaster-cmd/DSA-practice/tree/master/1260-shift-2d-grid) |
 ## Design
 |  |
