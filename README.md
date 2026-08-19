@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/codemaster-cmd/DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/codemaster-cmd/DSA-practice/tree/master/0682-baseball-game) |
+| [0901-online-stock-span](https://github.com/codemaster-cmd/DSA-practice/tree/master/0901-online-stock-span) |
 ## Matrix
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/codemaster-cmd/DSA-practice/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/codemaster-cmd/DSA-practice/tree/master/0901-online-stock-span) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -171,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codemaster-cmd/DSA-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/codemaster-cmd/DSA-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/codemaster-cmd/DSA-practice/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/codemaster-cmd/DSA-practice/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
