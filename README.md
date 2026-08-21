@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/codemaster-cmd/DSA-practice/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/codemaster-cmd/DSA-practice/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/codemaster-cmd/DSA-practice/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/codemaster-cmd/DSA-practice/tree/master/0605-can-place-flowers) |
@@ -187,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1693-daily-leads-and-partners](https://github.com/codemaster-cmd/DSA-practice/tree/master/1693-daily-leads-and-partners) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/codemaster-cmd/DSA-practice/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
