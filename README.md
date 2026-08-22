@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/codemaster-cmd/DSA-practice/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/codemaster-cmd/DSA-practice/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/codemaster-cmd/DSA-practice/tree/master/0135-candy) |
+| [0228-summary-ranges](https://github.com/codemaster-cmd/DSA-practice/tree/master/0228-summary-ranges) |
 | [0605-can-place-flowers](https://github.com/codemaster-cmd/DSA-practice/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codemaster-cmd/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/codemaster-cmd/DSA-practice/tree/master/0682-baseball-game) |
