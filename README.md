@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/codemaster-cmd/DSA-practice/tree/master/0584-find-customer-referee) |
 | [1693-daily-leads-and-partners](https://github.com/codemaster-cmd/DSA-practice/tree/master/1693-daily-leads-and-partners) |
+| [1757-recyclable-and-low-fat-products](https://github.com/codemaster-cmd/DSA-practice/tree/master/1757-recyclable-and-low-fat-products) |
 ## Binary Search
 |  |
 | ------- |
