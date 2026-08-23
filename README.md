@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/codemaster-cmd/DSA-practice/tree/master/0584-find-customer-referee) |
 | [1693-daily-leads-and-partners](https://github.com/codemaster-cmd/DSA-practice/tree/master/1693-daily-leads-and-partners) |
 ## Binary Search
 |  |
