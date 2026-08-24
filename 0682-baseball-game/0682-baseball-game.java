@@ -10,7 +10,9 @@ class Solution {
             }
 
             else if (op.equals("D")) {
-                int last = list.get(list.size() - 1);
+                int n = list.size();
+                int last = list.get(n - 1);
+
                 list.add(last * 2);
             }
 
@@ -24,7 +26,6 @@ class Solution {
             }
 
             else {
-                // String → Integer
                 list.add(Integer.parseInt(op));
             }
         }
