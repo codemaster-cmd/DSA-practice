@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/codemaster-cmd/DSA-practice/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/codemaster-cmd/DSA-practice/tree/master/0135-candy) |
 | [0228-summary-ranges](https://github.com/codemaster-cmd/DSA-practice/tree/master/0228-summary-ranges) |
+| [0496-next-greater-element-i](https://github.com/codemaster-cmd/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/codemaster-cmd/DSA-practice/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codemaster-cmd/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/codemaster-cmd/DSA-practice/tree/master/0682-baseball-game) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/codemaster-cmd/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/codemaster-cmd/DSA-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0389-find-the-difference](https://github.com/codemaster-cmd/DSA-practice/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/codemaster-cmd/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [2418-sort-the-people](https://github.com/codemaster-cmd/DSA-practice/tree/master/2418-sort-the-people) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codemaster-cmd/DSA-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codemaster-cmd/DSA-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/codemaster-cmd/DSA-practice/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/codemaster-cmd/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/codemaster-cmd/DSA-practice/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/codemaster-cmd/DSA-practice/tree/master/0901-online-stock-span) |
 ## Matrix
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/codemaster-cmd/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/codemaster-cmd/DSA-practice/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
