@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/codemaster-cmd/DSA-practice/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/codemaster-cmd/DSA-practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/codemaster-cmd/DSA-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/codemaster-cmd/DSA-practice/tree/master/0151-reverse-words-in-a-string) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/codemaster-cmd/DSA-practice/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/codemaster-cmd/DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/codemaster-cmd/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/codemaster-cmd/DSA-practice/tree/master/0682-baseball-game) |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/codemaster-cmd/DSA-practice/tree/master/0509-fibonacci-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/codemaster-cmd/DSA-practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
