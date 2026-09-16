@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/codemaster-cmd/DSA-practice/tree/master/0135-candy) |
 | [0228-summary-ranges](https://github.com/codemaster-cmd/DSA-practice/tree/master/0228-summary-ranges) |
 | [0496-next-greater-element-i](https://github.com/codemaster-cmd/DSA-practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/codemaster-cmd/DSA-practice/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/codemaster-cmd/DSA-practice/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codemaster-cmd/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/codemaster-cmd/DSA-practice/tree/master/0682-baseball-game) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/codemaster-cmd/DSA-practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/codemaster-cmd/DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/codemaster-cmd/DSA-practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/codemaster-cmd/DSA-practice/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/codemaster-cmd/DSA-practice/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/codemaster-cmd/DSA-practice/tree/master/0901-online-stock-span) |
 ## Matrix
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/codemaster-cmd/DSA-practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/codemaster-cmd/DSA-practice/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/codemaster-cmd/DSA-practice/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
