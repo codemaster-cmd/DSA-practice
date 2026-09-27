@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/codemaster-cmd/DSA-practice/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/codemaster-cmd/DSA-practice/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/codemaster-cmd/DSA-practice/tree/master/0520-detect-capital) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/codemaster-cmd/DSA-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/codemaster-cmd/DSA-practice/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/codemaster-cmd/DSA-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codemaster-cmd/DSA-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/codemaster-cmd/DSA-practice/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/codemaster-cmd/DSA-practice/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/codemaster-cmd/DSA-practice/tree/master/0901-online-stock-span) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/codemaster-cmd/DSA-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/codemaster-cmd/DSA-practice/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/codemaster-cmd/DSA-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Geometry
 |  |
 | ------- |
