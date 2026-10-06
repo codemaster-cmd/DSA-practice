@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/codemaster-cmd/DSA-practice/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/codemaster-cmd/DSA-practice/tree/master/0520-detect-capital) |
 | [0856-score-of-parentheses](https://github.com/codemaster-cmd/DSA-practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/codemaster-cmd/DSA-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/codemaster-cmd/DSA-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/codemaster-cmd/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/codemaster-cmd/DSA-practice/tree/master/1768-merge-strings-alternately) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/codemaster-cmd/DSA-practice/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/codemaster-cmd/DSA-practice/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/codemaster-cmd/DSA-practice/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/codemaster-cmd/DSA-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/codemaster-cmd/DSA-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/codemaster-cmd/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Matrix
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/codemaster-cmd/DSA-practice/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/codemaster-cmd/DSA-practice/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/codemaster-cmd/DSA-practice/tree/master/0605-can-place-flowers) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/codemaster-cmd/DSA-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/codemaster-cmd/DSA-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codemaster-cmd/DSA-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codemaster-cmd/DSA-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/codemaster-cmd/DSA-practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/codemaster-cmd/DSA-practice/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/codemaster-cmd/DSA-practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/codemaster-cmd/DSA-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/codemaster-cmd/DSA-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/codemaster-cmd/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
