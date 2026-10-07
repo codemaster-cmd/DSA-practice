@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/codemaster-cmd/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/codemaster-cmd/DSA-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/codemaster-cmd/DSA-practice/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/codemaster-cmd/DSA-practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/codemaster-cmd/DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/codemaster-cmd/DSA-practice/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/codemaster-cmd/DSA-practice/tree/master/0876-middle-of-the-linked-list) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/codemaster-cmd/DSA-practice/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/codemaster-cmd/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/codemaster-cmd/DSA-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/codemaster-cmd/DSA-practice/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/codemaster-cmd/DSA-practice/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/codemaster-cmd/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/codemaster-cmd/DSA-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/codemaster-cmd/DSA-practice/tree/master/0012-integer-to-roman) |
+| [0202-happy-number](https://github.com/codemaster-cmd/DSA-practice/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/codemaster-cmd/DSA-practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codemaster-cmd/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/codemaster-cmd/DSA-practice/tree/master/0836-rectangle-overlap) |
@@ -292,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/codemaster-cmd/DSA-practice/tree/master/0022-generate-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/codemaster-cmd/DSA-practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
