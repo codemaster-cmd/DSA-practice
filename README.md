@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/codemaster-cmd/DSA-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/codemaster-cmd/DSA-practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/codemaster-cmd/DSA-practice/tree/master/2418-sort-the-people) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/codemaster-cmd/DSA-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codemaster-cmd/DSA-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/codemaster-cmd/DSA-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/codemaster-cmd/DSA-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/codemaster-cmd/DSA-practice/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/codemaster-cmd/DSA-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/codemaster-cmd/DSA-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Linked List
 |  |
