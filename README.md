@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/codemaster-cmd/DSA-practice/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/codemaster-cmd/DSA-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/codemaster-cmd/DSA-practice/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/codemaster-cmd/DSA-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/codemaster-cmd/DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/codemaster-cmd/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/codemaster-cmd/DSA-practice/tree/master/0503-next-greater-element-ii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/codemaster-cmd/DSA-practice/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/codemaster-cmd/DSA-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/codemaster-cmd/DSA-practice/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/codemaster-cmd/DSA-practice/tree/master/0901-online-stock-span) |
 ## Heap (Priority Queue)
@@ -313,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/codemaster-cmd/DSA-practice/tree/master/0202-happy-number) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/codemaster-cmd/DSA-practice/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
