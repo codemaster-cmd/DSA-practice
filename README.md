@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/codemaster-cmd/DSA-practice/tree/master/0135-candy) |
 | [0228-summary-ranges](https://github.com/codemaster-cmd/DSA-practice/tree/master/0228-summary-ranges) |
 | [0303-range-sum-query-immutable](https://github.com/codemaster-cmd/DSA-practice/tree/master/0303-range-sum-query-immutable) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/codemaster-cmd/DSA-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/codemaster-cmd/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/codemaster-cmd/DSA-practice/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/codemaster-cmd/DSA-practice/tree/master/0605-can-place-flowers) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/codemaster-cmd/DSA-practice/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/codemaster-cmd/DSA-practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/codemaster-cmd/DSA-practice/tree/master/0231-power-of-two) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/codemaster-cmd/DSA-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/codemaster-cmd/DSA-practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codemaster-cmd/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/codemaster-cmd/DSA-practice/tree/master/0836-rectangle-overlap) |
