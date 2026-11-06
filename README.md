@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/codemaster-cmd/DSA-practice/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/codemaster-cmd/DSA-practice/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/codemaster-cmd/DSA-practice/tree/master/0509-fibonacci-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/codemaster-cmd/DSA-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/codemaster-cmd/DSA-practice/tree/master/0877-stone-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/codemaster-cmd/DSA-practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Array
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/codemaster-cmd/DSA-practice/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/codemaster-cmd/DSA-practice/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codemaster-cmd/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/codemaster-cmd/DSA-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0682-baseball-game](https://github.com/codemaster-cmd/DSA-practice/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/codemaster-cmd/DSA-practice/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/codemaster-cmd/DSA-practice/tree/master/0905-sort-array-by-parity) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/codemaster-cmd/DSA-practice/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/codemaster-cmd/DSA-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/codemaster-cmd/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/codemaster-cmd/DSA-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0905-sort-array-by-parity](https://github.com/codemaster-cmd/DSA-practice/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/codemaster-cmd/DSA-practice/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/codemaster-cmd/DSA-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/codemaster-cmd/DSA-practice/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/codemaster-cmd/DSA-practice/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/codemaster-cmd/DSA-practice/tree/master/0605-can-place-flowers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/codemaster-cmd/DSA-practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codemaster-cmd/DSA-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/codemaster-cmd/DSA-practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/codemaster-cmd/DSA-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -371,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/codemaster-cmd/DSA-practice/tree/master/0303-range-sum-query-immutable) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/codemaster-cmd/DSA-practice/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
