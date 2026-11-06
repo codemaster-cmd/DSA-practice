@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/codemaster-cmd/DSA-practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/codemaster-cmd/DSA-practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/codemaster-cmd/DSA-practice/tree/master/2418-sort-the-people) |
+| [2747-count-zero-request-servers](https://github.com/codemaster-cmd/DSA-practice/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/codemaster-cmd/DSA-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/codemaster-cmd/DSA-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codemaster-cmd/DSA-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/codemaster-cmd/DSA-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/codemaster-cmd/DSA-practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/codemaster-cmd/DSA-practice/tree/master/2418-sort-the-people) |
+| [2747-count-zero-request-servers](https://github.com/codemaster-cmd/DSA-practice/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/codemaster-cmd/DSA-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codemaster-cmd/DSA-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codemaster-cmd/DSA-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/codemaster-cmd/DSA-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/codemaster-cmd/DSA-practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/codemaster-cmd/DSA-practice/tree/master/2418-sort-the-people) |
+| [2747-count-zero-request-servers](https://github.com/codemaster-cmd/DSA-practice/tree/master/2747-count-zero-request-servers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codemaster-cmd/DSA-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/codemaster-cmd/DSA-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/codemaster-cmd/DSA-practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/codemaster-cmd/DSA-practice/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codemaster-cmd/DSA-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/codemaster-cmd/DSA-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/codemaster-cmd/DSA-practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
