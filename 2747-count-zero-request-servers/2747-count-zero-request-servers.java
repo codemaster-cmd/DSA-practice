@@ -1,61 +1,56 @@
-import java.util.*;
-
 class Solution {
     public int[] countServers(int n, int[][] logs, int x, int[] queries) {
+        Arrays.sort(logs, Comparator.comparingDouble(o -> o[1]));
 
-        // Sort logs according to request time
-        Arrays.sort(logs, (a, b) -> a[1] - b[1]);
+        int q = queries.length;
+        int m = logs.length;
+        int result[] = new int[q];
 
-        // Store queries with their original indices
-        int[][] q = new int[queries.length][2];
+        int timeIdx[][] = new  int[q][2];
 
-        for (int i = 0; i < queries.length; i++) {
-            q[i][0] = queries[i];
-            q[i][1] = i;
+        for(int i=0; i<q; i++){
+            timeIdx[i][0] = i; // idx
+            timeIdx[i][1] = queries[i]; // time
         }
 
-        // Sort queries according to query time
-        Arrays.sort(q, (a, b) -> a[0] - b[0]);
+        Arrays.sort(timeIdx  , Comparator.comparingDouble(o ->o[1]));  // sort  on basis of time
 
-        int[] ans = new int[queries.length];
+        HashMap<Integer , Integer> mp = new HashMap<>();
 
-        HashMap<Integer, Integer> map = new HashMap<>();
+        int i=0;
+        int j=0;
 
-        int left = 0;
-        int right = 0;
+        for(int[] pair : timeIdx){
+            int idx = pair[0];
+            int time = pair[1];
 
-        for (int i = 0; i < q.length; i++) {
+            int start = time - x;
+            int end = time;
 
-            int start = q[i][0] - x;
-            int end = q[i][0];
-
-            // Add logs within the current time window
-            while (right < logs.length && logs[right][1] <= end) {
-
-                map.put(logs[right][0],
-                    map.getOrDefault(logs[right][0], 0) + 1);
-
-                right++;
+            // expansion
+            while(j < m && logs[j][1] <= end){
+                int serverId = logs[j][0];
+                mp.put( serverId , mp.getOrDefault(serverId , 0) + 1);
+                j++;
             }
 
-            // Remove logs outside the current time window
-            while (left < right && logs[left][1] < start) {
+            // shrink
+            while(i < m && logs[i][1] < start){
+                int serverId = logs[i][0];
+                mp.put(serverId ,  mp.get(serverId) - 1);
 
-                int id = logs[left][0];
+                if(mp.get(serverId) ==  0){
+                    mp.remove(serverId);
 
-                map.put(id, map.get(id) - 1);
-
-                if (map.get(id) == 0) {
-                    map.remove(id);
                 }
+                i++;
 
-                left++;
             }
 
-            // Servers with zero requests
-            ans[q[i][1]] = n - map.size();
+            result[idx] = n - mp.size();
         }
 
-        return ans;
+        return result;
+        
     }
 }
